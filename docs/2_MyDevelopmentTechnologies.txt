@@ -1,0 +1,87 @@
+####################################
+#Software Development Life Cycle ###
+####################################
+
+
+PLAN using:
+
+-	Text editors
+
+		1. Vim
+		2. Nano
+		3. Jira
+
+CODE using:
+
+-	IDE's
+
+		1. Eclipse
+
+-	Version control system
+
+		1. Git
+
+			a.) Deploy a successfull git branching model:
+
+				a.1) Master branch
+				a.2) Develop branch (when mature enought, merge into master,
+				     tag with release number)
+				a.3) Feature branches (limited life time)
+					a.3.1) may branch off from DEVELOP
+					a.3.2) must merge back into DEVELOP
+					a.3.3) branch naming convention: anything
+				a.4) Release branches (limited life time)
+					a.4.1) may branch off from DEVELOP
+					a.4.2) must merge back to DEVELOP and MASTER
+					a.4.3) branch naming convention: release-*
+				a.5) Hotfix branches (limited life time)
+
+BUILD using:
+
+-	Build packages
+
+		1. Build-essential
+		2. Maven
+		3. Java 8
+
+TEST using:
+
+-	Test environments
+
+		1. Selenium
+		2. Junit
+
+RELEASE using:
+
+-	CI environments
+
+		1. Jenkins
+
+-	Containerezation
+		
+		1. Docker
+			update
+			vim
+			hostname
+			build-essential
+			net-tools
+			openssh-server
+			ufw
+
+DEPLOY using:
+
+-	CD environments
+
+		1. Puppet
+		2. Chef
+		3. Ansible
+		4. SaltStack
+
+OPERATE!!!
+
+MONITOR using:
+
+-	monitoring environments:
+		
+		1. Nagios
+		2. Splunk

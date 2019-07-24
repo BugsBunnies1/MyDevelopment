@@ -1,0 +1,85 @@
+#################################################
+#						#
+# Title: 	My development strategy		#
+#						#
+#################################################
+
+
+	Date:		07/24/2019	
+
+	Contributor:	BugsBunnies1
+
+	Description:	
+
+		using namespace MyDevelopmentStrategy;
+		
+			public class DataStructure {
+	
+				std::string YouTubeVideoTutorials = {"1st video tutorial", "2nd video tutorial", ...};
+
+				for every tutorial in YouTubeVideoTutorials:
+
+					- listen once from start to end;
+
+					while (resolvement != perfectly clear to me):
+
+						- listen again, & while listening
+						  create a code using following environments:
+	
+							1. c++
+		
+							2. c#
+
+							3. python
+
+							if (creating the code != perfectly clear to me) {
+							
+								if (code environment == *.cpp) {
+
+									cppBook.readContentAboutThatTopic();
+								}
+
+								elseif (code environment == *.cs) {
+
+									csBook.readContentAboutThatTopic();
+								}
+
+								else {
+
+									pyBook.readContentAboutThatTopic();
+								}
+
+							}
+			}
+
+			public class ProblemSolving {
+
+
+				start reading the book:
+
+					- while reading the book:
+
+						1. Read the problem;
+
+						2. Try to resolve it yourself;
+
+						3. if (resolvement == success):
+
+							- read the solution once;
+
+							- write the solution properly;
+
+							- git push to GitHub;
+
+						   else:
+
+							while (resolvement != clear to me)
+							{
+								- read the solution;
+								- write the solution properly;
+							}
+
+							- git push to GitHub;
+
+
+		

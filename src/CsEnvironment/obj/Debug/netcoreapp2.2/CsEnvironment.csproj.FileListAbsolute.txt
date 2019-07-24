@@ -1,0 +1,11 @@
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/bin/Debug/netcoreapp2.2/CsEnvironment.deps.json
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/bin/Debug/netcoreapp2.2/CsEnvironment.runtimeconfig.json
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/bin/Debug/netcoreapp2.2/CsEnvironment.runtimeconfig.dev.json
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/bin/Debug/netcoreapp2.2/CsEnvironment.dll
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/bin/Debug/netcoreapp2.2/CsEnvironment.pdb
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/obj/Debug/netcoreapp2.2/CsEnvironment.csprojAssemblyReference.cache
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/obj/Debug/netcoreapp2.2/CsEnvironment.csproj.CoreCompileInputs.cache
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/obj/Debug/netcoreapp2.2/CsEnvironment.AssemblyInfoInputs.cache
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/obj/Debug/netcoreapp2.2/CsEnvironment.AssemblyInfo.cs
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/obj/Debug/netcoreapp2.2/CsEnvironment.dll
+/home/v-brjaks/Documents/Learn/MyDevelopment/src/CsEnvironment/obj/Debug/netcoreapp2.2/CsEnvironment.pdb
