@@ -2,7 +2,7 @@
 
 namespace CsEnvironment
 {
-    class Program
+    class SimpleApp1_HelloWorld_v_1_0
     {
         static void Main(string[] args)
         {

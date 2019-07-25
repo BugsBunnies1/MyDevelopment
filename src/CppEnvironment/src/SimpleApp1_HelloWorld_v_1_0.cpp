@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : CppEnvironment.cpp
+// Name        : SimpleApp1_HelloWorld_v_1_0.cpp
 // Author      : BugsBunnies1
 // Version     :
 // Copyright   : Your copyright notice
